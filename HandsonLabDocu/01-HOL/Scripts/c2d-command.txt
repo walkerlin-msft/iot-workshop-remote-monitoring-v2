@@ -1,0 +1,3 @@
+{"command": "TURN_ONOFF", "value":"1", "time":"2017-11-29T10:10:10.123Z"}
+{"command": "TURN_ONOFF", "value":"0", "time":"2017-11-29T10:10:10.123Z"}
+{"command": "TEMPERATURE_ALERT", "value":"50", "time":"2017-11-29T10:10:10.123Z"}
