@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoT Jumpstart Workshop Sample</string>
+    <string name="temperature">Temperature (°C)</string>
+    <string name="humidity">Humidity (%)</string>
+    <string name="settings">Settings</string>
+    <string name="confirm">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+</resources>
