@@ -1,0 +1,6 @@
+[
+  {
+    "SensorType": "thermometer",
+    "TemperatureThreshold": 20
+  }
+]

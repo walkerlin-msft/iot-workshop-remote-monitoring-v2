@@ -1,0 +1,1484 @@
+[
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 341",
+    "temperature": 23.126534641638376,
+    "humidity": 62.2521222688026,
+    "time": "2017-12-11T22:01:57.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7017330Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:01:57.7220000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:01:57.0570000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 214",
+    "temperature": 60,
+    "humidity": 55,
+    "time": "2017-12-11T22:02:00.1380000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.3892373Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:00.0190000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:01:59.3700000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 342",
+    "temperature": 20.836835769892296,
+    "humidity": 78.613030065420958,
+    "time": "2017-12-11T22:02:02.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:02.6720000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:01.9950000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 343",
+    "temperature": 27.458033037569187,
+    "humidity": 66.226371109231181,
+    "time": "2017-12-11T22:02:07.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:07.9850000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:07.3100000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 215",
+    "temperature": 11,
+    "humidity": 64,
+    "time": "2017-12-11T22:02:08.3070000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6393788Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:08.1820000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:07.5320000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 344",
+    "temperature": 23.587466855862729,
+    "humidity": 68.021367007790928,
+    "time": "2017-12-11T22:02:12.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:12.6720000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:11.9820000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 216",
+    "temperature": 16,
+    "humidity": 25,
+    "time": "2017-12-11T22:02:16.4810000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:16.3700000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:15.7120000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 345",
+    "temperature": 30.531531485105859,
+    "humidity": 65.450614616272944,
+    "time": "2017-12-11T22:02:17.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:17.6640000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:16.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 346",
+    "temperature": 25.456098387013107,
+    "humidity": 70.68814502202801,
+    "time": "2017-12-11T22:02:22.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:22.6680000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:21.9850000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 217",
+    "temperature": 30,
+    "humidity": 64,
+    "time": "2017-12-11T22:02:24.6470000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:24.5330000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:23.8720000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 347",
+    "temperature": 30.212783508395724,
+    "humidity": 77.371584166047484,
+    "time": "2017-12-11T22:02:27.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:27.6700000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:26.9950000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 348",
+    "temperature": 20.302345091057919,
+    "humidity": 72.868223138215058,
+    "time": "2017-12-11T22:02:32.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:32.6630000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:31.9790000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 218",
+    "temperature": 1,
+    "humidity": 28,
+    "time": "2017-12-11T22:02:32.8150000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:32.6900000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:32.0480000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 349",
+    "temperature": 23.274181669730943,
+    "humidity": 60.223376087964972,
+    "time": "2017-12-11T22:02:37.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:37.6640000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:36.9950000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 219",
+    "temperature": 40,
+    "humidity": 52,
+    "time": "2017-12-11T22:02:40.9900000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:40.8750000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:40.2180000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 350",
+    "temperature": 29.614808921055996,
+    "humidity": 75.207157955965371,
+    "time": "2017-12-11T22:02:42.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:42.7010000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:42.0130000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 351",
+    "temperature": 22.091429174338295,
+    "humidity": 73.579718694137711,
+    "time": "2017-12-11T22:02:47.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:47.6700000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:46.9850000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 220",
+    "temperature": 38,
+    "humidity": 32,
+    "time": "2017-12-11T22:02:49.1580000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:49.0420000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:48.3940000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 352",
+    "temperature": 25.985442578337679,
+    "humidity": 76.645062314555773,
+    "time": "2017-12-11T22:02:52.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:52.6690000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:51.9920000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 221",
+    "temperature": 9,
+    "humidity": 32,
+    "time": "2017-12-11T22:02:57.3220000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:57.1980000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:02:56.5530000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 353",
+    "temperature": 30.052598495200414,
+    "humidity": 78.504791364927826,
+    "time": "2017-12-11T22:02:57.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:02:57.6570000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:02:56.9770000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 354",
+    "temperature": 25.752408401387274,
+    "humidity": 78.723733174846032,
+    "time": "2017-12-11T22:03:02.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:02.6590000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:01.9780000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 222",
+    "temperature": 54,
+    "humidity": 71,
+    "time": "2017-12-11T22:03:05.5030000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.6548621Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:05.3840000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:04.7420000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 355",
+    "temperature": 20.054042429422896,
+    "humidity": 72.221122046084332,
+    "time": "2017-12-11T22:03:07.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:07.7173532Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:07.6630000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:06.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 356",
+    "temperature": 22.532899784509475,
+    "humidity": 75.1864347691445,
+    "time": "2017-12-11T22:03:12.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:10.9047647Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:12.6630000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:11.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 223",
+    "temperature": 60,
+    "humidity": 61,
+    "time": "2017-12-11T22:03:13.6780000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:11.9672287Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:13.5600000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:12.9140000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 357",
+    "temperature": 28.786071702839717,
+    "humidity": 65.457524654880942,
+    "time": "2017-12-11T22:03:17.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:15.9202473Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:17.6610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:16.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 224",
+    "temperature": 42,
+    "humidity": 28,
+    "time": "2017-12-11T22:03:21.8480000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:20.1232398Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:21.7260000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:21.0860000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 358",
+    "temperature": 21.36528703085002,
+    "humidity": 60.960494290926135,
+    "time": "2017-12-11T22:03:22.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:20.9357138Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:22.6770000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:21.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 359",
+    "temperature": 31.822185279829206,
+    "humidity": 72.476458172298479,
+    "time": "2017-12-11T22:03:27.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:26.1860826Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:27.6610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:26.9870000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 225",
+    "temperature": 51,
+    "humidity": 69,
+    "time": "2017-12-11T22:03:30.0140000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:28.2479518Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:29.9000000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:29.2430000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 360",
+    "temperature": 26.920071344972811,
+    "humidity": 78.337557491324034,
+    "time": "2017-12-11T22:03:32.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:30.9353684Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:32.6920000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:32.0030000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 361",
+    "temperature": 29.507079559639536,
+    "humidity": 74.691565346536819,
+    "time": "2017-12-11T22:03:37.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:35.8883468Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:37.6790000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:37.0050000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 226",
+    "temperature": 8,
+    "humidity": 75,
+    "time": "2017-12-11T22:03:38.1820000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:36.4351981Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:38.0590000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:37.4200000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 362",
+    "temperature": 20.575538435364003,
+    "humidity": 74.530308501071389,
+    "time": "2017-12-11T22:03:42.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:40.8881712Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:42.6610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:41.9900000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 227",
+    "temperature": 26,
+    "humidity": 45,
+    "time": "2017-12-11T22:03:46.3600000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:44.6067984Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:46.2480000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:45.5990000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 363",
+    "temperature": 20.257901700272896,
+    "humidity": 66.505467244619169,
+    "time": "2017-12-11T22:03:47.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:45.8911546Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:47.6630000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:46.9900000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 364",
+    "temperature": 25.279506454050846,
+    "humidity": 62.151799649561383,
+    "time": "2017-12-11T22:03:52.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:50.8792367Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:52.6640000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:51.9750000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 228",
+    "temperature": 22,
+    "humidity": 68,
+    "time": "2017-12-11T22:03:54.5340000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:52.8479165Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:54.4240000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:03:53.7730000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 365",
+    "temperature": 24.032413945245164,
+    "humidity": 64.83369011843736,
+    "time": "2017-12-11T22:03:57.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:03:55.9572036Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:03:57.6580000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:03:56.9780000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 229",
+    "temperature": 57,
+    "humidity": 74,
+    "time": "2017-12-11T22:04:02.7350000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:01.0520201Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:02.6240000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:01.9660000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 366",
+    "temperature": 22.534307898098994,
+    "humidity": 70.398200571842281,
+    "time": "2017-12-11T22:04:02.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:00.9426471Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:02.6860000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:01.9970000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 367",
+    "temperature": 24.86941870848905,
+    "humidity": 65.63136021695702,
+    "time": "2017-12-11T22:04:07.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:05.9112360Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:07.6820000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:07.0030000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 230",
+    "temperature": 2,
+    "humidity": 48,
+    "time": "2017-12-11T22:04:10.9060000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:09.1923846Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:10.7830000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:10.1370000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 368",
+    "temperature": 22.800614683756532,
+    "humidity": 60.046485126326893,
+    "time": "2017-12-11T22:04:12.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:10.8798331Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:12.6590000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:11.9780000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 369",
+    "temperature": 22.659579220717951,
+    "humidity": 67.153069991721011,
+    "time": "2017-12-11T22:04:17.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:15.9577972Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:17.6720000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:16.9960000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 231",
+    "temperature": 20,
+    "humidity": 24,
+    "time": "2017-12-11T22:04:19.0720000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:17.3327751Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:18.9500000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:18.3000000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 370",
+    "temperature": 24.702487507034842,
+    "humidity": 65.274664509056109,
+    "time": "2017-12-11T22:04:22.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:20.9576350Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:22.6950000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:22.0110000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 232",
+    "temperature": 57,
+    "humidity": 55,
+    "time": "2017-12-11T22:04:27.2470000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:25.5512351Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:27.1250000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:26.4740000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 371",
+    "temperature": 23.056246665110205,
+    "humidity": 60.822546457161422,
+    "time": "2017-12-11T22:04:27.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:26.1605944Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:27.8610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:27.1860000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 372",
+    "temperature": 27.469741869183263,
+    "humidity": 63.406875501477543,
+    "time": "2017-12-11T22:04:32.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:30.9104414Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:32.6610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:31.9850000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 233",
+    "temperature": 36,
+    "humidity": 55,
+    "time": "2017-12-11T22:04:35.4140000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:33.6603557Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:35.3060000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:34.6530000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 373",
+    "temperature": 26.697892110416372,
+    "humidity": 75.947814185557377,
+    "time": "2017-12-11T22:04:37.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:35.9604960Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:37.6730000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:36.9860000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 374",
+    "temperature": 22.188595646501614,
+    "humidity": 75.678499447002125,
+    "time": "2017-12-11T22:04:42.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:40.9790862Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:42.6890000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:42.0120000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 234",
+    "temperature": 15,
+    "humidity": 56,
+    "time": "2017-12-11T22:04:43.5840000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:41.9009368Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:43.4740000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:42.8120000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 375",
+    "temperature": 21.733049942898681,
+    "humidity": 76.721634688881707,
+    "time": "2017-12-11T22:04:47.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:45.9476883Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:47.6860000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:47.0120000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 235",
+    "temperature": 43,
+    "humidity": 42,
+    "time": "2017-12-11T22:04:51.7590000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:50.0752399Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:51.6470000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:50.9950000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 376",
+    "temperature": 25.436463702881916,
+    "humidity": 72.0066146943995,
+    "time": "2017-12-11T22:04:52.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:50.8877084Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:52.6590000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:51.9820000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 377",
+    "temperature": 21.628174675997677,
+    "humidity": 79.2647361055402,
+    "time": "2017-12-11T22:04:57.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:55.8719421Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:57.6750000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:04:56.9890000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 236",
+    "temperature": 51,
+    "humidity": 61,
+    "time": "2017-12-11T22:04:59.9330000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:04:58.2312321Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:04:59.8500000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:04:59.1860000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 378",
+    "temperature": 29.362392150184924,
+    "humidity": 77.731819770638864,
+    "time": "2017-12-11T22:05:02.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:00.9342516Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:02.6900000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:02.0050000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 379",
+    "temperature": 28.65784592408226,
+    "humidity": 70.368996410400413,
+    "time": "2017-12-11T22:05:07.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:05.9734793Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:07.6610000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:06.9910000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 237",
+    "temperature": 38,
+    "humidity": 53,
+    "time": "2017-12-11T22:05:08.1280000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:06.4109399Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:08.0200000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:07.3670000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 380",
+    "temperature": 28.120985669991708,
+    "humidity": 64.757791119105775,
+    "time": "2017-12-11T22:05:12.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:10.8863498Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:12.6770000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:11.9980000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 238",
+    "temperature": 1,
+    "humidity": 35,
+    "time": "2017-12-11T22:05:16.3040000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:14.6049796Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:16.1930000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:15.5300000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 381",
+    "temperature": 21.130426513971628,
+    "humidity": 66.815651646039768,
+    "time": "2017-12-11T22:05:17.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:15.8705649Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:17.6880000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:17.0050000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 382",
+    "temperature": 31.047267428289366,
+    "humidity": 63.429639309660928,
+    "time": "2017-12-11T22:05:22.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:20.8548000Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:22.6590000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:21.9760000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 239",
+    "temperature": 56,
+    "humidity": 59,
+    "time": "2017-12-11T22:05:24.4730000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:22.7453520Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:24.3650000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:23.7040000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 383",
+    "temperature": 25.895487491384543,
+    "humidity": 76.434484433070537,
+    "time": "2017-12-11T22:05:27.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:25.9014955Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:27.6820000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:27.0100000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 240",
+    "temperature": 17,
+    "humidity": 66,
+    "time": "2017-12-11T22:05:32.6490000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:30.9169538Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:32.5330000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:31.8830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 384",
+    "temperature": 20.604410483532646,
+    "humidity": 64.270640619879586,
+    "time": "2017-12-11T22:05:32.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:30.9169538Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:32.6650000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:31.9830000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 385",
+    "temperature": 21.081298154947167,
+    "humidity": 62.495769339700956,
+    "time": "2017-12-11T22:05:37.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:35.8948013Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:37.7040000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:37.0170000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 241",
+    "temperature": 2,
+    "humidity": 72,
+    "time": "2017-12-11T22:05:40.8200000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:39.0736301Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:40.7030000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:40.0440000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 386",
+    "temperature": 29.393573058899648,
+    "humidity": 71.4237340330369,
+    "time": "2017-12-11T22:05:42.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:40.9699310Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:42.7290000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:42.0560000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 387",
+    "temperature": 22.552222088237208,
+    "humidity": 66.61832142745196,
+    "time": "2017-12-11T22:05:47.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:45.9780921Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:47.6890000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:47.0250000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 242",
+    "temperature": 42,
+    "humidity": 43,
+    "time": "2017-12-11T22:05:48.9890000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:47.2536195Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:48.8670000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:48.2190000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "RpiOnlineSimulator",
+    "msgId": "message id 388",
+    "temperature": 26.773951806828968,
+    "humidity": 73.858362595735,
+    "time": "2017-12-11T22:05:52.0000000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:50.9123783Z",
+    "PartitionId": 3,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:52.6640000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "RpiOnlineSimulator",
+      "ConnectionDeviceGenerationId": "636482255166423084",
+      "EnqueuedTime": "2017-12-11T22:05:51.9940000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  },
+  {
+    "deviceId": "CSharpSimulator",
+    "msgId": "message id 243",
+    "temperature": 33,
+    "humidity": 39,
+    "time": "2017-12-11T22:05:57.1540000Z",
+    "EventProcessedUtcTime": "2017-12-11T22:05:55.4631062Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2017-12-11T22:05:57.0380000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "CSharpSimulator",
+      "ConnectionDeviceGenerationId": "636482254660274585",
+      "EnqueuedTime": "2017-12-11T22:05:56.3920000Z",
+      "StreamId": null
+    },
+    "User": { "SensorType": "thermometer" }
+  }
+]
